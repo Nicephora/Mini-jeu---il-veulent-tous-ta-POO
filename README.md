@@ -1,10 +1,16 @@
 "Mini jeu - il veulent tous ta POO"
 
+Notre modeste jeu de combat, tous publics, contient la V1 et la V2, et c'est déjà pas mal.
+
+
 Ne te méprends pas cher Correcteur, ceux qui veulent vraiment ta peau sont ceux qui ont conçu les planning de THP.
 
 A toi de coder le programme suivant : 
 - Pépito est inscrit à THP, il souhaite apprendre des choses (le fonctionnement du web, et commment se brancher aux internets).
+
 - Tous les jours ils doit ingérer un volume de cours qui nécéssite habituellement 30h (pour un être humain standard)
+
+- Chaque jour il perd 4% d'éfficacité, mais en regagne 22 les nuits de pleine lune.
 
 - A la fin de sa formation de 11 semaines, combien de temps Pépito aura t-il cravaché les soirs et week ends (en heures)?
 - Convertis cette donnée en minutes, en terrains de football et en litres de jus d'orange (un indice : n'oublie pas de créer une instance de classe de variable qui vient push sur ton Git, via ton terminal de préférence)
@@ -14,3 +20,5 @@ A toi de coder le programme suivant :
 - Tu as 10 minutes 
 
 Cordialement 
+
+Pour toute réclamation, merci de contacter @Nicéphore et @Pierre-Yves sur leur Minitel 
