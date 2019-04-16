@@ -8,9 +8,10 @@ Ne te méprends pas cher Correcteur, ceux qui veulent vraiment ta peau sont ceux
 A toi de coder le programme suivant : 
 - Pépito est inscrit à THP, il souhaite apprendre des choses (le fonctionnement du web, et commment se brancher aux internets).
 
-- Tous les jours ils doit ingérer un volume de cours qui nécéssite habituellement 30h (pour un être humain standard)
+- Tous les jours il doit ingérer un volume de cours qui nécéssite habituellement 30h (pour un être humain standard)
 
-- Chaque jour il perd 4% d'éfficacité, mais en regagne 22 les nuits de pleine lune.
+- Pour chaque cycle de 24h révolu, il perd 4% d'éfficacité, mais en regagne 22 les nuits de pleine lune.
+Ps : La possession de l'almanach de ton facteur est un plus.
 
 - A la fin de sa formation de 11 semaines, combien de temps Pépito aura t-il cravaché les soirs et week ends (en heures)?
 - Convertis cette donnée en minutes, en terrains de football et en litres de jus d'orange (un indice : n'oublie pas de créer une instance de classe de variable qui vient push sur ton Git, via ton terminal de préférence)
